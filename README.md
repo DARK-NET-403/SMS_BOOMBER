@@ -21,9 +21,7 @@ Whether you're trying to get someone’s attention or just mess around with your
 ## 📥 Download APK
 
 **Latest Version:**  
-[⬇️ Download SMS Boomer v1.0 APK](https://github.com/DARK-NET-403/SMS_BOOMBER/releases/download/v1.0/sms-boomer.apk)
-
----
+[⬇️ Download SMS Boomer v2.0 APK](https://github.com/DARK-NET-403/SMS_BOOMBER/releases/download/SMS_BOOMBER/SMS.BOMBER_2.0.apk)
 
 ## 🧠 How to Use
 
