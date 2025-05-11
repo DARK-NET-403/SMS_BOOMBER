@@ -1,4 +1,4 @@
-# SMS Boomer - Fun Prank SMS App  
+# SMS Boomer - Fun Prank SMS App  hide 
 Created by **Ariyan Rabbi (Dʌʀĸ-Nɘt)**
 
 ---
@@ -34,10 +34,10 @@ Whether you're trying to get someone’s attention or just mess around with your
 
 ## ✨ Screenshots
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/DARK-NET-403/SMS_BOOMBER/blob/main/Screenshot_20250511_095657.jpg?raw=true" width="300"/>
   <img src="https://github.com/DARK-NET-403/SMS_BOOMBER/blob/main/Screenshot_20250511_100655.jpg?raw=true" width="300"/>
-</div>
+</p>
 
 ---
 
